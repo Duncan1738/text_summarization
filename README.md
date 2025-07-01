@@ -19,7 +19,7 @@ pip install transformers datasets nltk
 2️⃣ Run the notebook cells step by step.
 3️⃣ Input any long text, and the model will generate a summary.
 
-🎯 Example
+ Example
 Input:
 
 Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals, including humans. Leading AI textbooks define the field as the study of intelligent agents: any system that perceives its environment and takes actions that maximize its chance of achieving its goals. Some popular applications of AI include language processing, robotics, computer vision, and decision-making systems.
