@@ -29,6 +29,6 @@ Output Summary:
 AI is intelligence demonstrated by machines and is defined as the study of intelligent agents. It is used in NLP, robotics, computer vision, and decision-making.
 
  Future Enhancements
-🤖 Fine-tune the model for specific domains (Medical, Legal, etc.)
+ Fine-tune the model for specific domains (Medical, Legal, etc.)
 🔄 Add an interactive Web UI for summarization
 📚 Support for multilingual text summarization
