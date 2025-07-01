@@ -13,9 +13,9 @@ It utilizes **Hugging Face's Transformers** to generate **concise summaries** of
 If running locally, install dependencies with:
 pip install transformers datasets nltk
  How to Use
-1️. Open the text_summarization.ipynb notebook in Google Colab or Jupyter.
-2️. Run the notebook cells step by step.
-3️. Input any long text, and the model will generate a summary.
+-  Open the text_summarization.ipynb notebook in Google Colab or Jupyter.
+-  Run the notebook cells step by step.
+-  Input any long text, and the model will generate a summary.
 ---
  Example
 Input:
