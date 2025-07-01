@@ -7,7 +7,7 @@ It utilizes **Hugging Face's Transformers** to generate **concise summaries** of
 -  **Summarizes long text into short, readable summaries.**
 -  **Uses a Pre-trained Transformer Model.**
 -  **Fast and Efficient NLP Processing.**
-- 🔥 **Works in Google Colab or locally.**
+-  **Works in Google Colab or locally.**
 
 ## 🛠 Installation
 If running locally, install dependencies with:
