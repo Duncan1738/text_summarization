@@ -9,7 +9,7 @@ It utilizes **Hugging Face's Transformers** to generate **concise summaries** of
 -  **Fast and Efficient NLP Processing.**
 -  **Works in Google Colab or locally.**
 
-## 🛠 Installation
+##  Installation
 If running locally, install dependencies with:
 ```sh
 pip install transformers datasets nltk
