@@ -4,7 +4,7 @@ This project uses **Artificial Intelligence (AI) & NLP (Natural Language Process
 It utilizes **Hugging Face's Transformers** to generate **concise summaries** of large text.
 
 ##  Features
-- ✅ **Summarizes long text into short, readable summaries.**
+-  **Summarizes long text into short, readable summaries.**
 - 🧠 **Uses a Pre-trained Transformer Model.**
 - ⚡ **Fast and Efficient NLP Processing.**
 - 🔥 **Works in Google Colab or locally.**
