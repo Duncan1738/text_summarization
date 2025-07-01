@@ -1,4 +1,4 @@
-# 📄 AI-Powered Text Summarization
+#  AI-Powered Text Summarization
 
 This project uses **Artificial Intelligence (AI) & NLP (Natural Language Processing)** to summarize long text documents automatically.  
 It utilizes **Hugging Face's Transformers** to generate **concise summaries** of large text.
