@@ -31,4 +31,4 @@ AI is intelligence demonstrated by machines and is defined as the study of intel
  Future Enhancements
  Fine-tune the model for specific domains (Medical, Legal, etc.)
  Add an interactive Web UI for summarization
-📚 Support for multilingual text summarization
+ Support for multilingual text summarization
