@@ -14,7 +14,7 @@ If running locally, install dependencies with:
 ```sh
 pip install transformers datasets nltk
 
-📥 How to Use
+ How to Use
 1️⃣ Open the text_summarization.ipynb notebook in Google Colab or Jupyter.
 2️⃣ Run the notebook cells step by step.
 3️⃣ Input any long text, and the model will generate a summary.
