@@ -3,7 +3,7 @@
 This project uses **Artificial Intelligence (AI) & NLP (Natural Language Processing)** to summarize long text documents automatically.  
 It utilizes **Hugging Face's Transformers** to generate **concise summaries** of large text.
 
-## 🚀 Features
+##  Features
 - ✅ **Summarizes long text into short, readable summaries.**
 - 🧠 **Uses a Pre-trained Transformer Model.**
 - ⚡ **Fast and Efficient NLP Processing.**
