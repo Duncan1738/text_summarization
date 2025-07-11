@@ -26,5 +26,5 @@ Example
 - Fine-tune the model for specific domains (Medical, Legal, etc.)
 - Add an interactive Web UI for summarization
 - Support for multilingual text summarization
-
+---
 MIT licence
